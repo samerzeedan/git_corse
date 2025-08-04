@@ -1,2 +1,2 @@
-# git_corse
+# git_course
 samer zaidan school
